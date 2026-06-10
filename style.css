@@ -1,0 +1,23 @@
+body{
+    background-color:lightblue;
+
+}
+img{
+    animation:picture 5s infinite;
+    
+}
+@keyframes picture{
+    0%{
+        transform:translate(0 cm,10cm);
+        border-stylr:dashed;
+        border: width 45cm;;
+    }
+    50%{
+        border-stylr:salt;
+        border-width:45cm;
+    }
+    100%{
+        transform:rotate(42deg);
+
+    }
+}
