@@ -1,0 +1,17 @@
+img{
+    
+    width: 400px;
+    height: 400px;
+}
+body{
+    background-color: rgb(104, 32, 192);
+}
+#contentent{
+    display: flex;
+    gap:1cm;
+}
+    
+h1{
+    text-align: center;
+    color:rgb(0, 145, 255) ;
+}

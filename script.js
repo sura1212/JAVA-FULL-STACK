@@ -119,7 +119,7 @@ function guess(n) {
 }
 
 let number = Math.floor(Math.random() * 100) + 1;
-guess(number);*/
+guess(number);
 console.log("pranay");
 let choclates=["melodi","fivestar","perk","kitkat","munch","alphenlebe"];
 let sales={
